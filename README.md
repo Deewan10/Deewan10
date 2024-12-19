@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @Deewan
 - 👀 I’m interested in building amazing websites and a comunity for software developers
-- 🌱 I’m currently learning React basics
+- 🌱 I’m currently learning React native
 - 💞️ I’m looking to collaborate on open source
-- 📫 How to reach me peterstemidayo28@gmail.com
+- 📫 How to reach me
+   https://deewann.netlify.app
+- peterstemidayo28@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
